@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "cliente": "Cliente Exemplo",
+    "equipamento": "Notebook",
+    "defeito": "Não liga",
+    "status": "Aberta"
+  }
+]
