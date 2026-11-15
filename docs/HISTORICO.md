@@ -15,3 +15,8 @@ A guia **Commits** no GitHub permite examinar cada alteração com data, mensage
 
 ## Observação
 Os primeiros commits no GitHub foram registrados por integração de API autorizada, e não por um comando `git push` executado no computador do estudante.
+
+## Versão 1.2 — Revisão da atividade prática (15/11/2026)
+- Revisado o registro de alterações e a estrutura do projeto.
+- Confirmado o histórico remoto no GitHub e a disponibilidade do código-fonte.
+- Preservada a distinção entre publicação por API e execução local de `git push`.
