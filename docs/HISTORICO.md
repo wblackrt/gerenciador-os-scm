@@ -20,3 +20,4 @@ Os primeiros commits no GitHub foram registrados por integração de API autoriz
 - Revisado o registro de alterações e a estrutura do projeto.
 - Confirmado o histórico remoto no GitHub e a disponibilidade do código-fonte.
 - Preservada a distinção entre publicação por API e execução local de `git push`.
+- Registro da atividade via Git Bash em 22/11/2026 19:31: arquivo modificado e sincronizado com GitHub.
